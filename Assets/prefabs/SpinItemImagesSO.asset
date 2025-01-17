@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 664392568144a02439cf303078ed74be, type: 3}
+  m_Name: SpinItemImagesSO
+  m_EditorClassIdentifier: 
+  allSprites:
+  - type: Lime
+    image: {fileID: 877231695, guid: eb29b8c4205332147bff0de14206a72e, type: 3}
+    rewardMultiplier: 10
+  - type: Cherry
+    image: {fileID: 1070798754, guid: f38853af5c7f2644fa3dcbc99bbe78d5, type: 3}
+    rewardMultiplier: 10
+  - type: Berries
+    image: {fileID: 1611460528, guid: fd9dcc94c2440954e92cf45fb759f804, type: 3}
+    rewardMultiplier: 30
+  - type: Bell
+    image: {fileID: 1685539581, guid: 41c67105cf0b2cc44806eb7d1d5a0426, type: 3}
+    rewardMultiplier: 40
+  - type: Star
+    image: {fileID: -1708961342, guid: 2e325321f36d4274dad24b1ab473eff2, type: 3}
+    rewardMultiplier: 50
+  - type: Joker
+    image: {fileID: -267877112, guid: fe5a3635c7e995045aa2a370e53b30c7, type: 3}
+    rewardMultiplier: 100
